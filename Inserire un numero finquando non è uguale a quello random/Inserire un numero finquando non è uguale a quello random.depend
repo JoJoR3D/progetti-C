@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677152269 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\inserire un numero finquando non è uguale a quello random\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
