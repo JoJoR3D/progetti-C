@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689958047 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\lettura e scrittura file in c++\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

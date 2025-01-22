@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1700742241 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\metodo di pagamento (esercizio)\main.cpp
+	<iostream>
+	"MetodoPagamento.cpp"
+	"Paypal.cpp"
+	"CartaDiCredito.cpp"
+	"Bitcoin.cpp"
+
+1700653112 c:\users\giuse\onedrive\desktop\esecrizi in c++\metodo di pagamento (esercizio)\metodopagamento.cpp
+	<iostream>
+
+1700742241 c:\users\giuse\onedrive\desktop\esecrizi in c++\metodo di pagamento (esercizio)\paypal.cpp
+	<iostream>
+	"MetodoPagamento.cpp"
+
+1700742241 c:\users\giuse\onedrive\desktop\esecrizi in c++\metodo di pagamento (esercizio)\cartadicredito.cpp
+	<iostream>
+	"MetodoPagamento.cpp"
+
+1700742241 c:\users\giuse\onedrive\desktop\esecrizi in c++\metodo di pagamento (esercizio)\bitcoin.cpp
+	<iostream>
+	"MetodoPagamento.cpp"
+

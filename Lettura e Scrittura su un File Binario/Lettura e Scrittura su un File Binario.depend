@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690539031 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\lettura e scrittura su un file binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

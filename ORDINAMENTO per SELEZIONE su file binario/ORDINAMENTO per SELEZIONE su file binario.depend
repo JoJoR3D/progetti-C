@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1691162499 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\ordinamento per selezione su file binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"lib.c"
+	"prot.h"
+
+1691146852 c:\users\giuse\onedrive\desktop\esecrizi in c++\ordinamento per selezione su file binario\lib.c
+
+1691146795 c:\users\giuse\onedrive\desktop\esecrizi in c++\ordinamento per selezione su file binario\prot.h
+

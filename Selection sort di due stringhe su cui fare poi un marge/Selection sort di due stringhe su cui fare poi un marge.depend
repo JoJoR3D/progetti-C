@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689931841 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\selection sort di due stringhe su cui fare poi un marge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
