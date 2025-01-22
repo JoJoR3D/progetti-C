@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698163378 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\generatore di parole\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

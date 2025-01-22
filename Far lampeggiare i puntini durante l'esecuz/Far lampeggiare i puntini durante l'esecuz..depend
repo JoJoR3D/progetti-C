@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1659283453 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\far lampeggiare i puntini durante l'esecuz.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
