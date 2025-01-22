@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660071942 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\convertire una stringa da maius. a minus. o viceversa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Libreria.c"
+	"Prot.h"
+
+1660234867 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\convertire una stringa da maius. a minus. o viceversa\libreria.c
+
+1660070179 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\convertire una stringa da maius. a minus. o viceversa\prot.h
+

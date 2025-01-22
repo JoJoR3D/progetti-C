@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661886142 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\comb sort (il comb sort migliora l'algoritmo bubble sort)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.c"
+	"Prot.h"
+
+1661886198 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\comb sort (il comb sort migliora l'algoritmo bubble sort)\lib.c
+
+1661616678 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\comb sort (il comb sort migliora l'algoritmo bubble sort)\prot.h
+

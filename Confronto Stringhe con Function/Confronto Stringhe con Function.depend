@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1657035734 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\confronto stringhe con function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Library.c"
+	"Protot.h"
+
+1656959806 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\confronto stringhe con function\library.c
+
+1656959806 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\confronto stringhe con function\protot.h
+

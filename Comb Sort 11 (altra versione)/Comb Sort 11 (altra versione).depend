@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661886307 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\comb sort 11 (altra versione)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.c"
+	"Prot.h"
+
+1661886360 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\comb sort 11 (altra versione)\lib.c
+
+1661874428 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\comb sort 11 (altra versione)\prot.h
+

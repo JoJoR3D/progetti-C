@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660233253 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\converte tutta la stringa da maiuscolo a minuscolo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lib.c"
+	"Prot.h"
+
+1660233253 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\converte tutta la stringa da maiuscolo a minuscolo\lib.c
+
+1660233253 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\converte tutta la stringa da maiuscolo a minuscolo\prot.h
+
