@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689931446 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\esercizi con l'allocazione dinamica in c++\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+
