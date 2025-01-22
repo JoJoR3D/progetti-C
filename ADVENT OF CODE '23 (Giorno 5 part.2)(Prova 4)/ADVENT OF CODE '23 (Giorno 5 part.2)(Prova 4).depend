@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1712226457 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\advent of code '23 (giorno 5 part.2)(prova 4)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.c"
+	"prot.h"
+	<time.h>
+
+1712226457 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\advent of code '23 (giorno 5 part.2)(prova 4)\lib.c
+
+1712080489 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\advent of code '23 (giorno 5 part.2)(prova 4)\prot.h
+
