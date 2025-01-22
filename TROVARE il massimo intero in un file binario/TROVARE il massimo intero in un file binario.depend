@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690625464 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\trovare il massimo intero in un file binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689704197 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\stringhe (lez. tutor del 11-4-22)\main.cpp
+	<iostream>
+	<limits>
+	<string.h>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690818680 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\trova stringa in un file binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
