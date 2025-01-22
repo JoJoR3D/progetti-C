@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657131294 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\simulazione circuito 3-state (bus)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

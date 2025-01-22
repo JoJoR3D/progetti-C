@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1662484381 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shell sort (è uno dei più vecchi algoritmi di ordinamento)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Lib.c"
+	"Prot.h"
+
+1662483942 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shell sort (è uno dei più vecchi algoritmi di ordinamento)\lib.c
+
+1662483942 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shell sort (è uno dei più vecchi algoritmi di ordinamento)\prot.h
+

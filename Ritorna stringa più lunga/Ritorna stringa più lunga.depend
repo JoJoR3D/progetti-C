@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656876229 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\ritorna stringa più lunga\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

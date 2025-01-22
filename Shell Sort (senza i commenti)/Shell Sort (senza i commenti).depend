@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1662484288 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shell sort (senza i commenti)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Lib.c"
+	"Prot.h"
+
+1662484168 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shell sort (senza i commenti)\lib.c
+
+1662484168 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shell sort (senza i commenti)\prot.h
+

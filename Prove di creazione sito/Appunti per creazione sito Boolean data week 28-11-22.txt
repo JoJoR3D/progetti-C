@@ -1,0 +1,23 @@
+HTML linguaggio di markup (da un significato al nostro testo: 
+più grande, più piccolo, corsivo, grassetto, ecc.. Questo mediante l'uso dei
+TAG).
+
+TAG:
+<br> a capo
+<strong> grassetto
+<em> corsivo
+<ol> lista numerata
+<ul> lista con i puntini
+<hr> linea separatrice
+<img src="nome immagine" alt=ERRORE"> per inserire un immagine,
+	  alt invece serve nel caso si sbaglia il nome del immagine quindi possiamo mettere in
+          questo caso un msg di errore.
+<A> è un ancora e tutto quello che si trova in questo tag è cliccabile.
+<A HREF="https://www.amazon.it"></A> premendo sul link saremo trasportati sul sito di Amazon.
+<A HREF="https://www.amazon.it" TARGET="nuova scheda">qui</A> saremo trasportati sul sito di Amazon in una nuova finestra del browser.
+
+
+CSS
+Per formattare il testo (abbellire il testo).
+
+

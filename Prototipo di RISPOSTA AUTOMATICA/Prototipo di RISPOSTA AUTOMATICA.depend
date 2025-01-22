@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691687725 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\prototipo di risposta automatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

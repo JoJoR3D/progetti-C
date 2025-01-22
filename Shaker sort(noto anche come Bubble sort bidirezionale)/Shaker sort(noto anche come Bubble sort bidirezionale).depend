@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661362590 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shaker sort(noto anche come bubble sort bidirezionale)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib.c"
+	"Prot.h"
+
+1661362544 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shaker sort(noto anche come bubble sort bidirezionale)\lib.c
+
+1661362070 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\shaker sort(noto anche come bubble sort bidirezionale)\prot.h
+

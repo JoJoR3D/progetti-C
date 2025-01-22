@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656178689 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\programma c di portiere che para un rigore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656342022 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\simulazione robot aspirapolvere senza radar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
