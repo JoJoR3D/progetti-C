@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661366604 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\bubble sort (con ridimens. del array dal punto in cui si è verificato l'ultimo scambio)\main.c
+	<stdio.h>
+	<stdlib.h>
+

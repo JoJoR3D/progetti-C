@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1661361800 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\bubble sort (alg. di ord. con funz. vers.2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Libreria.c"
+	"Prototipo.h"
+
+1660931039 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\bubble sort (alg. di ord. con funz. vers.2)\libreria.c
+
+1660922452 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\bubble sort (alg. di ord. con funz. vers.2)\prototipo.h
+

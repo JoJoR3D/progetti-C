@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1660327901 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\caclolatrice semplice (le 4 operazioni)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Lib.c"
+	"Prot.h"
+
+1660326490 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\caclolatrice semplice (le 4 operazioni)\lib.c
+
+1660326490 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\caclolatrice semplice (le 4 operazioni)\prot.h
+

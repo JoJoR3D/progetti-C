@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1676316879 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\cambia le posizioni delle parole in una stringa (1)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Libreria.c"
+	"Prototipi.h"
+
+1676316839 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\cambia le posizioni delle parole in una stringa (1)\libreria.c
+
+1676117019 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\cambia le posizioni delle parole in una stringa (1)\prototipi.h
+
