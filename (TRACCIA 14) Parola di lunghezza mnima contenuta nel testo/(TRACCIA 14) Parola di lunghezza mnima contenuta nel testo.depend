@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671560442 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 14) parola di lunghezza mnima contenuta nel testo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

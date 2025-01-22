@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672861286 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 10) trovare il num. di parole che iniz. in a e term. in e\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

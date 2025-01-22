@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674064389 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 3) ritorna la massima distanza tra i punti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

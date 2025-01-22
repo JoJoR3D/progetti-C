@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672950584 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 11) trovare il num. di parole che contengono almeno 5 vocali\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672768768 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 8) trovare il num. di parole di 3 lettere in una stringa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
