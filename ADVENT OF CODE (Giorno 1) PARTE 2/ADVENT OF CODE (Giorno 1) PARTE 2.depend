@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702308974 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\advent of code (giorno 1) parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
