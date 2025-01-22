@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671021705 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\numero occorenze lettere alfabeto in una stringa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

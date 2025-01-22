@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1687889863 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\operazioni su file\main.c
+	<stdio.h>
+	<stdlib.h>
+	"File1.c"
+
+1659694588 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\operazioni su file\file1.c
+

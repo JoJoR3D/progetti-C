@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676923248 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\num. maggiore, media, radice della somma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660585656 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\operazione su file (rilevazione end-of-file)\main.c
+	<stdio.h>
+	<stdlib.h>
+
