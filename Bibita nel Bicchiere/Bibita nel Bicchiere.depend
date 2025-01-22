@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688978926 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\bibita nel bicchiere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"prot.h"
+	"lib.c"
+
+1688496813 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\bibita nel bicchiere\prot.h
+
+1688978841 c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\bibita nel bicchiere\lib.c
+	<string.h>
+

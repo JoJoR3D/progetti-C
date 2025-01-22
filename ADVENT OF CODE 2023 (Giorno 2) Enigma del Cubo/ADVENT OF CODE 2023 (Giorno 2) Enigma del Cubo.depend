@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702660898 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\advent of code 2023 (giorno 2) enigma del cubo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

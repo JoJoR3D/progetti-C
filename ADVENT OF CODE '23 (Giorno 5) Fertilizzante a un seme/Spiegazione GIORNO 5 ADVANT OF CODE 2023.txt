@@ -1,0 +1,46 @@
+Esempio:
+Seme 79
+Inizio a cercarlo in seed-to-soil map:
+50 98 2
+52 50 48
+
+Si trova nella seconda riga:
+52 indica l'inizio della destinazione
+50 indica l'inizio dell'origine
+48 è la lunghezza dell'intervallo di destinazione e di origine.
+
+Intervallo destinazione:
+da 52 a 99
+
+Intervallo origine:
+da 50 a 97
+
+Essendo l'intervallo di destinazione avanti di due rispetto all'intervallo di origine (52-50), vuol dire che il seme 79 nell' inetravllo di origine si trova alla posizione 79, mentre nell'inervallo di destinazione si trova alla posizione 81 (79+2).
+
+Quindi soil (terreno) è 81.
+
+Ora devo trovare 81 nella prossima mappa: soil-to-fertilizer map.
+
+N.B. Se 81 non rientra in nessun intervallo, allora anche per la prossima mappa il valore da cercare rimarrà 81.
+
+......
+
+acqua 81
+water-to-light map:
+Destinazione/Origine:
+da 18 a 97 / da 25 a 94 (81 rientra nella seconda riga che ha un intervallo di 70)
+
+Essendo l'inizio dell'intervallo di destinazione (18) indietro di 7 rispetto all'inizio dell'intervallo di origine (25), ciò vuol dire che poichè il valore 81 in origine si trova alla posizione 81, in destinazione si troverà alla posizione: 74 (81-7).
+
+Ora luce è 74.
+
+Ora devo trovare 74 nella prossima mappa: light-to-temperature map.
+
+Questo prosegue fin quando non arrivo all'ultima mappa: posizione.
+
+
+SCOPO del progetto: tra tutti i valori dei semi in input, devo trovare la posizione MINORE.
+
+
+
+
