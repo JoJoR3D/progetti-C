@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676655317 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\stampa a video solo se la parola è palindroma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

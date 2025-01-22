@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676663497 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\somma progressiva (ad ogni numero letto stampa la s.progressiva)\main.c
+	<stdio.h>
+	<stdlib.h>
+
