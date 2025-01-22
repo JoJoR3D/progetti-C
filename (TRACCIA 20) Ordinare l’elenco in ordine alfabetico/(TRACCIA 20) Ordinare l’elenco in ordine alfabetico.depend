@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674152846 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 20) ordinare l’elenco in ordine alfabetico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

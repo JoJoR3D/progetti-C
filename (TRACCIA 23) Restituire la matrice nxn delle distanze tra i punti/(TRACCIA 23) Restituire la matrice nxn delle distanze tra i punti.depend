@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674064618 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 23) restituire la matrice nxn delle distanze tra i punti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

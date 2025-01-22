@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673290289 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 17) controllare se il teso nel array è un pangramma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673292111 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 18) ritornare il carattere più frequente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

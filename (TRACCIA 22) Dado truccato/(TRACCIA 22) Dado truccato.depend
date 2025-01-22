@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1673893874 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\esercizi prova impronta prog i\(traccia 22) dado truccato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+
