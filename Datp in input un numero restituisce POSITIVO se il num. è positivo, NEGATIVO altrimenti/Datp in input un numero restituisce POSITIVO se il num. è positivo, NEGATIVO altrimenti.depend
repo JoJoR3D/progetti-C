@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1660129797 source:c:\users\giuse\onedrive\desktop\esercizi in c (per esercitarmi)\datp in input un numero restituisce positivo se il num. è positivo, negativo altrimenti\main.c
+	<stdio.h>
+	<stdlib.h>
+
