@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1690539221 source:c:\users\giuse\onedrive\desktop\esecrizi in c++\bubble sort su numeri interi presenti in un file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
